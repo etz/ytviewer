@@ -1,6 +1,6 @@
 # YTViewer
 
-**YTViewer** is simple YouTube views bot. Reuploaded by Ethan Nadzieja.
+**YTViewer** is simple YouTube views bot. Reuploaded by Ethan Nadzieja. This repository will not be updated. See [ytviewer's Gitlab](https://gitlab.com/DeBos/ytviewer) for updates.
 
 ## Content
 
