@@ -1,0 +1,5 @@
+psutil
+argparse
+user_agent
+selenium-wire
+requests[security]
