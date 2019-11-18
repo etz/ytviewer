@@ -1,6 +1,6 @@
 # YTViewer
 
-**YTViewer** is simple YouTube views bot. Reuploaded by etz.
+**YTViewer** is simple YouTube views bot. Reuploaded by Ethan Nadzieja.
 
 ## Content
 
@@ -119,17 +119,12 @@ git clone "https://github.com/DeBos99/ytviewer.git"
 
 ## Authors
 
-* **Michał Wróblewski** - Main Developer - [DeBos99](https://github.com/DeBos99)
+* **Michał Wróblewski** - Main Developer - DeBos99
 
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NH8JV53DSVDMY)
 
-See also the list of [contributors](https://github.com/DeBos99/ytviewer/contributors) who participated in this project.
-
-## Contact
-
-* Discord: DeBos#3292
-* Reddit: [DeBos99](https://www.reddit.com/user/DeBos99)
+See also the list of [contributors](https://github.com/etz/ytviewer/contributors) who participated in this project.
 
 ## License
 
